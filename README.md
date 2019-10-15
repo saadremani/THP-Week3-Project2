@@ -2,7 +2,7 @@
 
 
 
-THP - WEEK 3 - Project 2 François Thiounn
+THP - WEEK 3 - Project 2 
 
 Description du projet par THP
 
