@@ -8,25 +8,12 @@ require_relative 'lib/game'
 def perform
 	system 'clear'
 	puts "     _,.
-    ,` -.)
-   ( _/-\\\\-._
-  /,|`--._,-^|            ,
-  \\_| |`-._/||          ,'|
-    |  `-, / |         /  /
-    |     || |        /  /
-     `r-._||/   __   /  /   _______ ________  _     _   ____
- __,-<_     )`-/  `./  /   / ___  / \\  ___ /  \\|   |/  / __ \\
-'  \\   `---'   \\   /  /    ``  / /   ||   `   ||   || | <__``
-    |           |./  /       _/ /   < |==|    ||   ||  \\__ `\\
-    /           //  /       / /`     ||       ||   ||     `\\ |
-\\_/' \\         |/  /       / /___,,  ||___,   \\ \\_/ / |\\___/ /
- |    |   _,^-'/  /       /_______/ /______\\   \\___/  \\_____/
- |    , ``  (\\/  /_
-  \\,.->._    \\X-=/^            Welcome to the game Zeus
-  (  /   `-._//^`              Be the last survivor !
-   `Y-.____(__}				
-    |     {__)
-          ()"
+  
+
+                                 Welcome to my game 
+                               Be the last survivor !
+ 
+          
   #setup : creation of the Human Player
   puts "Please name your player :"
   print "> "
