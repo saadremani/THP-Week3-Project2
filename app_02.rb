@@ -11,7 +11,7 @@ def perform
   
 
                                  Welcome to my game 
-                               Be the last survivor !
+                               Be the last survivor !"
  
           
   #setup : creation of the Human Player
